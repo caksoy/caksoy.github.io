@@ -6,6 +6,6 @@ layout: default
 
 _yay_
 
-## [Critique Corners](./privacypolicy.html)
+## [Privacy Policy](./privacypolicy.html)
 
 [back](./)
