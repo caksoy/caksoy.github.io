@@ -14,7 +14,7 @@ Critique Corners ensures that all data, including any corners or critiques you c
 
 ### Contact Us
 
-If you have any questions or concerns about our privacy policy, feel free to [contact us](mailto:aksoycagla94@gmail.com). We are here to hel.
+If you have any questions or concerns about our privacy policy, feel free to [contact us](mailto:aksoycagla94@gmail.com). We are here to help.
  
 
 [back](./)
