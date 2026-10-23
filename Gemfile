@@ -1,5 +1,9 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
-gemspec
+gem "github-pages", group: :jekyll_plugins
+
+# Local preview only: standard-library gems that newer Rubies no longer bundle.
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "webrick"
