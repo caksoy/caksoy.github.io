@@ -24,7 +24,7 @@ Handpicked is made for iPhone and needs iOS 18.1 or later.
 
 Movie details and posters come from TMDB. Streaming availability comes from JustWatch.
 
-**Contact:** You can reach us at [aksoycagla111@gmail.com](mailto:aksoycagla111@gmail.com).
+**Contact:** You can reach us at [handpickdmovies@gmail.com](mailto:handpickdmovies@gmail.com).
 
 ## [Community Rules](./handpicked-rules.html)
 

@@ -52,6 +52,6 @@ To delete your account, open More and tap Delete account.
 
 We update this page when the app changes. This page is always the current version.
 
-**Contact:** You can reach us at [aksoycagla111@gmail.com](mailto:aksoycagla111@gmail.com).
+**Contact:** You can reach us at [handpickdmovies@gmail.com](mailto:handpickdmovies@gmail.com).
 
 [back](./handpicked.html)

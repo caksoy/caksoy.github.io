@@ -26,6 +26,6 @@ If you see a card that breaks these rules, report it from the menu on the card. 
 
 We update these rules as we learn what the deck needs. This page is always the current version.
 
-**Contact:** You can reach us at [aksoycagla111@gmail.com](mailto:aksoycagla111@gmail.com).
+**Contact:** You can reach us at [handpickdmovies@gmail.com](mailto:handpickdmovies@gmail.com).
 
 [back](./handpicked.html)
