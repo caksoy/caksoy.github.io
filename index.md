@@ -6,4 +6,6 @@ I am an independent Software Developer based in Providence, Rhode Island. I obta
 
 # Projects
 
+## [Handpicked](./handpicked.html)
+
 ## [Critique Corners](./critiquecorners.html)
