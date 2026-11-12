@@ -20,11 +20,13 @@ The only numbers in Handpicked are on your own cards: how many people saw each o
 
 Handpicked is free, with no ads and no subscription. If you like it, you can pay once to support it. Nothing in the app changes.
 
-Handpicked is made for iPhone and needs iOS 18.1 or later. [Get it on the App Store](https://apps.apple.com/us/app/handpicked-movies-by-people/id6825099571).
+Handpicked is made for iPhone and needs iOS 18.1 or later.
 
 Movie details and posters come from TMDB. Streaming availability comes from JustWatch.
 
 **Contact:** You can reach us at [handpickdmovies@gmail.com](mailto:handpickdmovies@gmail.com).
+
+<a href="https://apps.apple.com/us/app/handpicked-movies-by-people/id6825099571"><img src="/assets/img/app-store-badge.svg" alt="Download on the App Store" height="40"></a>
 
 ## [Community Rules](./handpicked-rules.html)
 
